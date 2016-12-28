@@ -3,6 +3,7 @@
 ### Dired Basics ###
 
 - `w`: Copy Text
+- `(`: hide details/ show details
 - `C-x C-q`: Rename Buffer
 - `C-c C-c`: finish edit
 
