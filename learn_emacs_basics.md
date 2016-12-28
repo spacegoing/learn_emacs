@@ -1,5 +1,17 @@
 ## Emacs Basics ##
 
+### Windows ###
+
+- `SPC w`: Open windows commands palette
+
+
+### Buffer ###
+
+- `C-x C-b`: show all buffers
+- `SPC b b`: switch buffers
+- `SPC tab`: switch to latest buffers
+
+
 ### Dired Basics ###
 
 - `w`: Copy Text
@@ -14,6 +26,12 @@
 - `C-x (`: record macro
 - `C-x )`: finish record
 - `[number] C-x e`: execute macro [number] times.
+
+### Bookmark Plus (BMKP) ###
+
+- `C-x p K`: Save desktop bookmarks.
+- `C-x j K`: Jump to bookmarks.
+- `C-x r l`: Manage bookmarks.
 
 ## Emacs Magit Basics ##
 
