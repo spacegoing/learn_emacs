@@ -3,6 +3,7 @@
 ### Dired Basics ###
 
 - `w`: Copy Text
+- `(`: hide details/ show details
 - `O`: linux/unix chown command
 - `SPC f E`: helm sudo edit
 - `C-x C-q`: Rename Buffer
