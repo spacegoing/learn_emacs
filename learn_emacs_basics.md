@@ -29,7 +29,10 @@
 
 ### Bookmark Plus (BMKP) ###
 
-- `C-x p K`: Save desktop bookmarks.
+- Create an *initEnv*. 
+
+- `C-x p K`: Save desktop bookmarks. (save all buffers in
+  *buffers list*)
 - `C-x j K`: Jump to bookmarks.
 - `C-x r l`: Manage bookmarks.
 
